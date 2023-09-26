@@ -16,7 +16,7 @@ This project encompasses a suite of Python scripts developed to crawl and scrape
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/manhinreal/sasa-web-crawler.git
+   git clone https://github.com/manhinreal/SASA-Web-Crawler.git
    ```
 
 2. **Install Required Packages**: 
