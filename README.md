@@ -59,4 +59,5 @@ This project encompasses a suite of Python scripts developed to crawl and scrape
 ## Licensing and Contact
 
 - **License**: MIT License. Refer to the [LICENSE.md](LICENSE.md) file for more details.
-- **Contact Information**: For further inquiries or to report issues, contact JasonTSOI at email.
+- **Contact Information**: For further inquiries or to report issues, contact JasonTSOI at [Gmail](jasontsoi413@gmail.com).
+- [Issue Tracker](https://github.com/manhinreal/SASA-Web-Crawler/issues)
